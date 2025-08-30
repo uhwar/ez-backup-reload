@@ -1,0 +1,1626 @@
+{
+  "timestamp": "2025-08-29_23-37-39",
+  "games_backed_up": {
+    "DRAGON QUEST III HD-2D Remake": {
+      "files": [
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\DRAGON QUEST III HD-2D Remake\\Steam\\76561197960271872\\SaveGames\\AutoSaveData.sav",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\DRAGON QUEST III HD-2D Remake\\2025-08-29_23-37-39\\SaveGames\\AutoSaveData.sav",
+          "size": 93516
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\DRAGON QUEST III HD-2D Remake\\Steam\\76561197960271872\\SaveGames\\SaveData_0.sav",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\DRAGON QUEST III HD-2D Remake\\2025-08-29_23-37-39\\SaveGames\\SaveData_0.sav",
+          "size": 93324
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\DRAGON QUEST III HD-2D Remake\\Steam\\76561197960271872\\SaveGames\\SystemData_0.sav",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\DRAGON QUEST III HD-2D Remake\\2025-08-29_23-37-39\\SaveGames\\SystemData_0.sav",
+          "size": 4215
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\DRAGON QUEST III HD-2D Remake\\Steam\\76561197960271872\\SaveGames\\SystemData_1.sav",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\DRAGON QUEST III HD-2D Remake\\2025-08-29_23-37-39\\SaveGames\\SystemData_1.sav",
+          "size": 1494
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\DRAGON QUEST III HD-2D Remake\\Steam\\Config\\WindowsNoEditor\\ApexDestruction.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\DRAGON QUEST III HD-2D Remake\\2025-08-29_23-37-39\\Config\\WindowsNoEditor\\ApexDestruction.ini",
+          "size": 2
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\DRAGON QUEST III HD-2D Remake\\Steam\\Config\\WindowsNoEditor\\Compat.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\DRAGON QUEST III HD-2D Remake\\2025-08-29_23-37-39\\Config\\WindowsNoEditor\\Compat.ini",
+          "size": 2
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\DRAGON QUEST III HD-2D Remake\\Steam\\Config\\WindowsNoEditor\\DeviceProfiles.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\DRAGON QUEST III HD-2D Remake\\2025-08-29_23-37-39\\Config\\WindowsNoEditor\\DeviceProfiles.ini",
+          "size": 2
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\DRAGON QUEST III HD-2D Remake\\Steam\\Config\\WindowsNoEditor\\EditorScriptingUtilities.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\DRAGON QUEST III HD-2D Remake\\2025-08-29_23-37-39\\Config\\WindowsNoEditor\\EditorScriptingUtilities.ini",
+          "size": 2
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\DRAGON QUEST III HD-2D Remake\\Steam\\Config\\WindowsNoEditor\\Engine.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\DRAGON QUEST III HD-2D Remake\\2025-08-29_23-37-39\\Config\\WindowsNoEditor\\Engine.ini",
+          "size": 675
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\DRAGON QUEST III HD-2D Remake\\Steam\\Config\\WindowsNoEditor\\Game.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\DRAGON QUEST III HD-2D Remake\\2025-08-29_23-37-39\\Config\\WindowsNoEditor\\Game.ini",
+          "size": 2
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\DRAGON QUEST III HD-2D Remake\\Steam\\Config\\WindowsNoEditor\\Hardware.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\DRAGON QUEST III HD-2D Remake\\2025-08-29_23-37-39\\Config\\WindowsNoEditor\\Hardware.ini",
+          "size": 2
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\DRAGON QUEST III HD-2D Remake\\Steam\\Config\\WindowsNoEditor\\Input.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\DRAGON QUEST III HD-2D Remake\\2025-08-29_23-37-39\\Config\\WindowsNoEditor\\Input.ini",
+          "size": 2
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\DRAGON QUEST III HD-2D Remake\\Steam\\Config\\WindowsNoEditor\\Niagara.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\DRAGON QUEST III HD-2D Remake\\2025-08-29_23-37-39\\Config\\WindowsNoEditor\\Niagara.ini",
+          "size": 2
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\DRAGON QUEST III HD-2D Remake\\Steam\\Config\\WindowsNoEditor\\Paper2D.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\DRAGON QUEST III HD-2D Remake\\2025-08-29_23-37-39\\Config\\WindowsNoEditor\\Paper2D.ini",
+          "size": 2
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\DRAGON QUEST III HD-2D Remake\\Steam\\Config\\WindowsNoEditor\\RuntimeOptions.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\DRAGON QUEST III HD-2D Remake\\2025-08-29_23-37-39\\Config\\WindowsNoEditor\\RuntimeOptions.ini",
+          "size": 2
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\DRAGON QUEST III HD-2D Remake\\Steam\\Config\\WindowsNoEditor\\Scalability.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\DRAGON QUEST III HD-2D Remake\\2025-08-29_23-37-39\\Config\\WindowsNoEditor\\Scalability.ini",
+          "size": 2
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\DRAGON QUEST III HD-2D Remake\\Steam\\Config\\WindowsNoEditor\\VariantManagerContent.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\DRAGON QUEST III HD-2D Remake\\2025-08-29_23-37-39\\Config\\WindowsNoEditor\\VariantManagerContent.ini",
+          "size": 2
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\DRAGON QUEST III HD-2D Remake\\Steam\\76561197960271872\\SaveGames\\AutoSaveData.sav",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\DRAGON QUEST III HD-2D Remake\\2025-08-29_23-37-39\\SaveGames\\AutoSaveData.sav",
+          "size": 93516
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\DRAGON QUEST III HD-2D Remake\\Steam\\76561197960271872\\SaveGames\\SaveData_0.sav",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\DRAGON QUEST III HD-2D Remake\\2025-08-29_23-37-39\\SaveGames\\SaveData_0.sav",
+          "size": 93324
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\DRAGON QUEST III HD-2D Remake\\Steam\\76561197960271872\\SaveGames\\SystemData_0.sav",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\DRAGON QUEST III HD-2D Remake\\2025-08-29_23-37-39\\SaveGames\\SystemData_0.sav",
+          "size": 4215
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\DRAGON QUEST III HD-2D Remake\\Steam\\76561197960271872\\SaveGames\\SystemData_1.sav",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\DRAGON QUEST III HD-2D Remake\\2025-08-29_23-37-39\\SaveGames\\SystemData_1.sav",
+          "size": 1494
+        }
+      ],
+      "count": 21,
+      "backup_dir": "C:\\Code Directory\\ez-back-reload\\loaded saves\\DRAGON QUEST III HD-2D Remake\\2025-08-29_23-37-39"
+    },
+    "Oblivion": {
+      "files": [
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\Oblivion\\Oblivion.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Oblivion\\2025-08-29_23-37-39\\My Games\\Oblivion\\Oblivion.ini",
+          "size": 17671
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\Oblivion\\Saves\\autosave.bak",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Oblivion\\2025-08-29_23-37-39\\Saves\\autosave.bak",
+          "size": 935787
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\Oblivion\\Saves\\autosave.ess",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Oblivion\\2025-08-29_23-37-39\\Saves\\autosave.ess",
+          "size": 955608
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\Oblivion\\Saves\\Save 1 - Nickelz - City Isle, Level 1, Playing Time 00.36.32.ess",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Oblivion\\2025-08-29_23-37-39\\Saves\\Save 1 - Nickelz - City Isle, Level 1, Playing Time 00.36.32.ess",
+          "size": 938317
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\Oblivion\\Saves\\Save 2 - Nickelz - Bruma, Level 1, Playing Time 00.41.34.ess",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Oblivion\\2025-08-29_23-37-39\\Saves\\Save 2 - Nickelz - Bruma, Level 1, Playing Time 00.41.34.ess",
+          "size": 964721
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\Oblivion\\Saves\\autosave.bak",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Oblivion\\2025-08-29_23-37-39\\Saves\\autosave.bak",
+          "size": 935787
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\Oblivion\\Saves\\autosave.ess",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Oblivion\\2025-08-29_23-37-39\\Saves\\autosave.ess",
+          "size": 955608
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\Oblivion\\Saves\\Save 1 - Nickelz - City Isle, Level 1, Playing Time 00.36.32.ess",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Oblivion\\2025-08-29_23-37-39\\Saves\\Save 1 - Nickelz - City Isle, Level 1, Playing Time 00.36.32.ess",
+          "size": 938317
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\Oblivion\\Saves\\Save 2 - Nickelz - Bruma, Level 1, Playing Time 00.41.34.ess",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Oblivion\\2025-08-29_23-37-39\\Saves\\Save 2 - Nickelz - Bruma, Level 1, Playing Time 00.41.34.ess",
+          "size": 964721
+        }
+      ],
+      "count": 9,
+      "backup_dir": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Oblivion\\2025-08-29_23-37-39"
+    },
+    "My Games": {
+      "files": [
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\Oblivion\\Oblivion.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\My Games\\2025-08-29_23-37-39\\My Games\\Oblivion\\Oblivion.ini",
+          "size": 17671
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\Oblivion\\Saves\\autosave.bak",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\My Games\\2025-08-29_23-37-39\\Saves\\autosave.bak",
+          "size": 935787
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\Oblivion\\Saves\\autosave.ess",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\My Games\\2025-08-29_23-37-39\\Saves\\autosave.ess",
+          "size": 955608
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\Oblivion\\Saves\\Save 1 - Nickelz - City Isle, Level 1, Playing Time 00.36.32.ess",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\My Games\\2025-08-29_23-37-39\\Saves\\Save 1 - Nickelz - City Isle, Level 1, Playing Time 00.36.32.ess",
+          "size": 938317
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\Oblivion\\Saves\\Save 2 - Nickelz - Bruma, Level 1, Playing Time 00.41.34.ess",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\My Games\\2025-08-29_23-37-39\\Saves\\Save 2 - Nickelz - Bruma, Level 1, Playing Time 00.41.34.ess",
+          "size": 964721
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\Rocket League\\TAGame\\SaveData\\DBE_Production\\76561198061618524.save",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\My Games\\2025-08-29_23-37-39\\SaveData\\DBE_Production\\76561198061618524.save",
+          "size": 840424
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\Rocket League\\TAGame\\SaveData\\DBE_Production\\76561198061618524_1.save",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\My Games\\2025-08-29_23-37-39\\SaveData\\DBE_Production\\76561198061618524_1.save",
+          "size": 840424
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\Rocket League\\TAGame\\Config\\TAInput.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\My Games\\2025-08-29_23-37-39\\TAGame\\Config\\TAInput.ini",
+          "size": 95973
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\Rocket League\\TAGame\\Config\\TARLBot.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\My Games\\2025-08-29_23-37-39\\TAGame\\Config\\TARLBot.ini",
+          "size": 130
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\Rocket League\\TAGame\\SaveData\\DBE_Production\\76561198061618524.save",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\My Games\\2025-08-29_23-37-39\\SaveData\\DBE_Production\\76561198061618524.save",
+          "size": 840424
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\Rocket League\\TAGame\\SaveData\\DBE_Production\\76561198061618524_1.save",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\My Games\\2025-08-29_23-37-39\\SaveData\\DBE_Production\\76561198061618524_1.save",
+          "size": 840424
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\Oblivion\\Saves\\autosave.bak",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\My Games\\2025-08-29_23-37-39\\Saves\\autosave.bak",
+          "size": 935787
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\Oblivion\\Saves\\autosave.ess",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\My Games\\2025-08-29_23-37-39\\Saves\\autosave.ess",
+          "size": 955608
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\Oblivion\\Saves\\Save 1 - Nickelz - City Isle, Level 1, Playing Time 00.36.32.ess",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\My Games\\2025-08-29_23-37-39\\Saves\\Save 1 - Nickelz - City Isle, Level 1, Playing Time 00.36.32.ess",
+          "size": 938317
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\Oblivion\\Saves\\Save 2 - Nickelz - Bruma, Level 1, Playing Time 00.41.34.ess",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\My Games\\2025-08-29_23-37-39\\Saves\\Save 2 - Nickelz - Bruma, Level 1, Playing Time 00.41.34.ess",
+          "size": 964721
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\DRAGON QUEST III HD-2D Remake\\Steam\\76561197960271872\\SaveGames\\AutoSaveData.sav",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\My Games\\2025-08-29_23-37-39\\SaveGames\\AutoSaveData.sav",
+          "size": 93516
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\DRAGON QUEST III HD-2D Remake\\Steam\\76561197960271872\\SaveGames\\SaveData_0.sav",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\My Games\\2025-08-29_23-37-39\\SaveGames\\SaveData_0.sav",
+          "size": 93324
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\DRAGON QUEST III HD-2D Remake\\Steam\\76561197960271872\\SaveGames\\SystemData_0.sav",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\My Games\\2025-08-29_23-37-39\\SaveGames\\SystemData_0.sav",
+          "size": 4215
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\DRAGON QUEST III HD-2D Remake\\Steam\\76561197960271872\\SaveGames\\SystemData_1.sav",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\My Games\\2025-08-29_23-37-39\\SaveGames\\SystemData_1.sav",
+          "size": 1494
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\DRAGON QUEST III HD-2D Remake\\Steam\\Config\\WindowsNoEditor\\ApexDestruction.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\My Games\\2025-08-29_23-37-39\\Config\\WindowsNoEditor\\ApexDestruction.ini",
+          "size": 2
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\DRAGON QUEST III HD-2D Remake\\Steam\\Config\\WindowsNoEditor\\Compat.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\My Games\\2025-08-29_23-37-39\\Config\\WindowsNoEditor\\Compat.ini",
+          "size": 2
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\DRAGON QUEST III HD-2D Remake\\Steam\\Config\\WindowsNoEditor\\DeviceProfiles.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\My Games\\2025-08-29_23-37-39\\Config\\WindowsNoEditor\\DeviceProfiles.ini",
+          "size": 2
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\DRAGON QUEST III HD-2D Remake\\Steam\\Config\\WindowsNoEditor\\EditorScriptingUtilities.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\My Games\\2025-08-29_23-37-39\\Config\\WindowsNoEditor\\EditorScriptingUtilities.ini",
+          "size": 2
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\DRAGON QUEST III HD-2D Remake\\Steam\\Config\\WindowsNoEditor\\Engine.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\My Games\\2025-08-29_23-37-39\\Config\\WindowsNoEditor\\Engine.ini",
+          "size": 675
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\DRAGON QUEST III HD-2D Remake\\Steam\\Config\\WindowsNoEditor\\Game.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\My Games\\2025-08-29_23-37-39\\Config\\WindowsNoEditor\\Game.ini",
+          "size": 2
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\DRAGON QUEST III HD-2D Remake\\Steam\\Config\\WindowsNoEditor\\Hardware.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\My Games\\2025-08-29_23-37-39\\Config\\WindowsNoEditor\\Hardware.ini",
+          "size": 2
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\DRAGON QUEST III HD-2D Remake\\Steam\\Config\\WindowsNoEditor\\Input.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\My Games\\2025-08-29_23-37-39\\Config\\WindowsNoEditor\\Input.ini",
+          "size": 2
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\DRAGON QUEST III HD-2D Remake\\Steam\\Config\\WindowsNoEditor\\Niagara.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\My Games\\2025-08-29_23-37-39\\Config\\WindowsNoEditor\\Niagara.ini",
+          "size": 2
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\DRAGON QUEST III HD-2D Remake\\Steam\\Config\\WindowsNoEditor\\Paper2D.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\My Games\\2025-08-29_23-37-39\\Config\\WindowsNoEditor\\Paper2D.ini",
+          "size": 2
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\DRAGON QUEST III HD-2D Remake\\Steam\\Config\\WindowsNoEditor\\RuntimeOptions.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\My Games\\2025-08-29_23-37-39\\Config\\WindowsNoEditor\\RuntimeOptions.ini",
+          "size": 2
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\DRAGON QUEST III HD-2D Remake\\Steam\\Config\\WindowsNoEditor\\Scalability.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\My Games\\2025-08-29_23-37-39\\Config\\WindowsNoEditor\\Scalability.ini",
+          "size": 2
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\DRAGON QUEST III HD-2D Remake\\Steam\\Config\\WindowsNoEditor\\VariantManagerContent.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\My Games\\2025-08-29_23-37-39\\Config\\WindowsNoEditor\\VariantManagerContent.ini",
+          "size": 2
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\DRAGON QUEST III HD-2D Remake\\Steam\\76561197960271872\\SaveGames\\AutoSaveData.sav",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\My Games\\2025-08-29_23-37-39\\SaveGames\\AutoSaveData.sav",
+          "size": 93516
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\DRAGON QUEST III HD-2D Remake\\Steam\\76561197960271872\\SaveGames\\SaveData_0.sav",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\My Games\\2025-08-29_23-37-39\\SaveGames\\SaveData_0.sav",
+          "size": 93324
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\DRAGON QUEST III HD-2D Remake\\Steam\\76561197960271872\\SaveGames\\SystemData_0.sav",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\My Games\\2025-08-29_23-37-39\\SaveGames\\SystemData_0.sav",
+          "size": 4215
+        },
+        {
+          "original": "C:\\Users\\war\\Documents\\My Games\\DRAGON QUEST III HD-2D Remake\\Steam\\76561197960271872\\SaveGames\\SystemData_1.sav",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\My Games\\2025-08-29_23-37-39\\SaveGames\\SystemData_1.sav",
+          "size": 1494
+        }
+      ],
+      "count": 36,
+      "backup_dir": "C:\\Code Directory\\ez-back-reload\\loaded saves\\My Games\\2025-08-29_23-37-39"
+    },
+    "Cognosphere": {
+      "files": [
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\Cognosphere\\HYP\\1_1\\data\\appstore.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Cognosphere\\2025-08-29_23-37-39\\data\\appstore.dat",
+          "size": 4096
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\Cognosphere\\HYP\\1_1\\data\\gamedata.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Cognosphere\\2025-08-29_23-37-39\\data\\gamedata.dat",
+          "size": 32768
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\Cognosphere\\HYP\\1_1\\data\\gamedata.dat.crc",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Cognosphere\\2025-08-29_23-37-39\\data\\gamedata.dat.crc",
+          "size": 4096
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\Cognosphere\\HYP\\1_1\\data\\notifications.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Cognosphere\\2025-08-29_23-37-39\\data\\notifications.dat",
+          "size": 4096
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\Cognosphere\\HYP\\1_1\\fedata\\LocalPrefs.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Cognosphere\\2025-08-29_23-37-39\\1_1\\fedata\\LocalPrefs.json",
+          "size": 638
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\Cognosphere\\HYP\\1_1\\data\\appstore.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Cognosphere\\2025-08-29_23-37-39\\data\\appstore.dat",
+          "size": 4096
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\Cognosphere\\HYP\\1_1\\data\\gamedata.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Cognosphere\\2025-08-29_23-37-39\\data\\gamedata.dat",
+          "size": 32768
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\Cognosphere\\HYP\\1_1\\data\\gamedata.dat.crc",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Cognosphere\\2025-08-29_23-37-39\\data\\gamedata.dat.crc",
+          "size": 4096
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\Cognosphere\\HYP\\1_1\\data\\notifications.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Cognosphere\\2025-08-29_23-37-39\\data\\notifications.dat",
+          "size": 4096
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\Cognosphere\\HYP\\1_1\\fedata\\LocalPrefs.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Cognosphere\\2025-08-29_23-37-39\\1_1\\fedata\\LocalPrefs.json",
+          "size": 638
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\Cognosphere\\HYP\\1_1\\modules\\sophon\\sophon_net\\prefs\\local_prefs.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Cognosphere\\2025-08-29_23-37-39\\sophon_net\\prefs\\local_prefs.json",
+          "size": 3682
+        }
+      ],
+      "count": 11,
+      "backup_dir": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Cognosphere\\2025-08-29_23-37-39"
+    },
+    "CurseForge": {
+      "files": [
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\CurseForge\\second-window-state.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\CurseForge\\2025-08-29_23-37-39\\Roaming\\CurseForge\\second-window-state.json",
+          "size": 137
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\CurseForge\\storage.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\CurseForge\\2025-08-29_23-37-39\\Roaming\\CurseForge\\storage.json",
+          "size": 27851
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\CurseForge\\window-state.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\CurseForge\\2025-08-29_23-37-39\\Roaming\\CurseForge\\window-state.json",
+          "size": 142
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\CurseForge\\agent\\GameInstances\\AddonGameInstance.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\CurseForge\\2025-08-29_23-37-39\\agent\\GameInstances\\AddonGameInstance.json",
+          "size": 2
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\CurseForge\\agent\\GameInstances\\MinecraftGameInstance.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\CurseForge\\2025-08-29_23-37-39\\agent\\GameInstances\\MinecraftGameInstance.json",
+          "size": 457742
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\CurseForge\\agent\\logs\\CurseClient\\20250413020729-44E8.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\CurseForge\\2025-08-29_23-37-39\\logs\\CurseClient\\20250413020729-44E8.json",
+          "size": 21125
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\CurseForge\\agent\\logs\\CurseClient\\20250414202001-4C8C.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\CurseForge\\2025-08-29_23-37-39\\logs\\CurseClient\\20250414202001-4C8C.json",
+          "size": 148563
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\CurseForge\\agent\\logs\\CurseClient\\20250416232719-3D7C.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\CurseForge\\2025-08-29_23-37-39\\logs\\CurseClient\\20250416232719-3D7C.json",
+          "size": 22818
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\CurseForge\\agent\\logs\\CurseClient\\20250422020349-1D40.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\CurseForge\\2025-08-29_23-37-39\\logs\\CurseClient\\20250422020349-1D40.json",
+          "size": 16034
+        }
+      ],
+      "count": 9,
+      "backup_dir": "C:\\Code Directory\\ez-back-reload\\loaded saves\\CurseForge\\2025-08-29_23-37-39"
+    },
+    "Dolphin Emulator": {
+      "files": [
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\Dolphin Emulator\\Config\\Dolphin.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Dolphin Emulator\\2025-08-29_23-37-39\\Dolphin Emulator\\Config\\Dolphin.ini",
+          "size": 235
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\Dolphin Emulator\\Config\\DSUClient.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Dolphin Emulator\\2025-08-29_23-37-39\\Dolphin Emulator\\Config\\DSUClient.ini",
+          "size": 0
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\Dolphin Emulator\\Config\\FreeLook.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Dolphin Emulator\\2025-08-29_23-37-39\\Dolphin Emulator\\Config\\FreeLook.ini",
+          "size": 0
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\Dolphin Emulator\\Config\\FreeLookController.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Dolphin Emulator\\2025-08-29_23-37-39\\Dolphin Emulator\\Config\\FreeLookController.ini",
+          "size": 966
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\Dolphin Emulator\\Config\\GBA.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Dolphin Emulator\\2025-08-29_23-37-39\\Dolphin Emulator\\Config\\GBA.ini",
+          "size": 358
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\Dolphin Emulator\\Config\\GCKeyNew.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Dolphin Emulator\\2025-08-29_23-37-39\\Dolphin Emulator\\Config\\GCKeyNew.ini",
+          "size": 1542
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\Dolphin Emulator\\Config\\GCPadNew.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Dolphin Emulator\\2025-08-29_23-37-39\\Dolphin Emulator\\Config\\GCPadNew.ini",
+          "size": 794
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\Dolphin Emulator\\Config\\GFX.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Dolphin Emulator\\2025-08-29_23-37-39\\Dolphin Emulator\\Config\\GFX.ini",
+          "size": 0
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\Dolphin Emulator\\Config\\Qt.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Dolphin Emulator\\2025-08-29_23-37-39\\Dolphin Emulator\\Config\\Qt.ini",
+          "size": 7021
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\Dolphin Emulator\\Config\\RetroAchievements.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Dolphin Emulator\\2025-08-29_23-37-39\\Dolphin Emulator\\Config\\RetroAchievements.ini",
+          "size": 0
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\Dolphin Emulator\\Config\\TimePlayed.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Dolphin Emulator\\2025-08-29_23-37-39\\Dolphin Emulator\\Config\\TimePlayed.ini",
+          "size": 43
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\Dolphin Emulator\\Config\\WiimoteNew.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Dolphin Emulator\\2025-08-29_23-37-39\\Dolphin Emulator\\Config\\WiimoteNew.ini",
+          "size": 1991
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\Dolphin Emulator\\ResourcePacks\\Packs.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Dolphin Emulator\\2025-08-29_23-37-39\\Dolphin Emulator\\ResourcePacks\\Packs.ini",
+          "size": 0
+        }
+      ],
+      "count": 13,
+      "backup_dir": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Dolphin Emulator\\2025-08-29_23-37-39"
+    },
+    "DS4Windows": {
+      "files": [
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\DS4Windows\\Actions.xml",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\DS4Windows\\2025-08-29_23-37-39\\Roaming\\DS4Windows\\Actions.xml",
+          "size": 276
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\DS4Windows\\Auto Profiles.xml",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\DS4Windows\\2025-08-29_23-37-39\\Roaming\\DS4Windows\\Auto Profiles.xml",
+          "size": 120
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\DS4Windows\\OutputSlots.xml",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\DS4Windows\\2025-08-29_23-37-39\\Roaming\\DS4Windows\\OutputSlots.xml",
+          "size": 122
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\DS4Windows\\Profiles\\Default.xml",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\DS4Windows\\2025-08-29_23-37-39\\Profiles\\Default.xml",
+          "size": 10645
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\DS4Windows\\Profiles.xml",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\DS4Windows\\2025-08-29_23-37-39\\Roaming\\DS4Windows\\Profiles.xml",
+          "size": 2957
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\DS4Windows\\Profiles\\Default.xml",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\DS4Windows\\2025-08-29_23-37-39\\Profiles\\Default.xml",
+          "size": 10645
+        }
+      ],
+      "count": 6,
+      "backup_dir": "C:\\Code Directory\\ez-back-reload\\loaded saves\\DS4Windows\\2025-08-29_23-37-39"
+    },
+    "Factorio": {
+      "files": [
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\Factorio\\blueprint-storage.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Factorio\\2025-08-29_23-37-39\\Roaming\\Factorio\\blueprint-storage.dat",
+          "size": 43
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\Factorio\\player-data.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Factorio\\2025-08-29_23-37-39\\Roaming\\Factorio\\player-data.json",
+          "size": 16639
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\Factorio\\mods\\mod-list.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Factorio\\2025-08-29_23-37-39\\Factorio\\mods\\mod-list.json",
+          "size": 1702
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\Factorio\\temp\\currently-playing-background\\description.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Factorio\\2025-08-29_23-37-39\\temp\\currently-playing-background\\description.json",
+          "size": 82
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\Factorio\\temp\\currently-playing-background\\level-init.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Factorio\\2025-08-29_23-37-39\\temp\\currently-playing-background\\level-init.dat",
+          "size": 744568
+        }
+      ],
+      "count": 5,
+      "backup_dir": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Factorio\\2025-08-29_23-37-39"
+    },
+    "nikke_launcher": {
+      "files": [
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\nikke_launcher\\last_user.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\nikke_launcher\\2025-08-29_23-37-39\\Roaming\\nikke_launcher\\last_user.dat",
+          "size": 104
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\nikke_launcher\\psd.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\nikke_launcher\\2025-08-29_23-37-39\\Roaming\\nikke_launcher\\psd.dat",
+          "size": 88
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\nikke_launcher\\tbs_cache\\LocalPrefs.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\nikke_launcher\\2025-08-29_23-37-39\\nikke_launcher\\tbs_cache\\LocalPrefs.json",
+          "size": 633
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\nikke_launcher\\29080\\intl_service\\webview_cache\\LocalPrefs.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\nikke_launcher\\2025-08-29_23-37-39\\intl_service\\webview_cache\\LocalPrefs.json",
+          "size": 479
+        }
+      ],
+      "count": 4,
+      "backup_dir": "C:\\Code Directory\\ez-back-reload\\loaded saves\\nikke_launcher\\2025-08-29_23-37-39"
+    },
+    "riot-client-ux": {
+      "files": [
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\riot-client-ux\\sentry\\scope_v3.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\riot-client-ux\\2025-08-29_23-37-39\\riot-client-ux\\sentry\\scope_v3.json",
+          "size": 17725
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\riot-client-ux\\sentry\\session.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\riot-client-ux\\2025-08-29_23-37-39\\riot-client-ux\\sentry\\session.json",
+          "size": 288
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\riot-client-ux\\sentry\\queue\\queue.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\riot-client-ux\\2025-08-29_23-37-39\\sentry\\queue\\queue.json",
+          "size": 2
+        }
+      ],
+      "count": 3,
+      "backup_dir": "C:\\Code Directory\\ez-back-reload\\loaded saves\\riot-client-ux\\2025-08-29_23-37-39"
+    },
+    "Ryujinx": {
+      "files": [
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\Ryujinx\\bis\\user\\save\\0000000000000002\\0\\option.sav",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Ryujinx\\2025-08-29_23-37-39\\user\\save\\0000000000000002\\0\\option.sav",
+          "size": 192
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\Ryujinx\\bis\\user\\save\\0000000000000002\\1\\option.sav",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Ryujinx\\2025-08-29_23-37-39\\user\\save\\0000000000000002\\1\\option.sav",
+          "size": 192
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\Ryujinx\\bis\\user\\save\\0000000000000002\\1\\0\\caption.sav",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Ryujinx\\2025-08-29_23-37-39\\user\\save\\0000000000000002\\1\\0\\caption.sav",
+          "size": 1512
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\Ryujinx\\bis\\user\\save\\0000000000000002\\1\\0\\game_data.sav",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Ryujinx\\2025-08-29_23-37-39\\user\\save\\0000000000000002\\1\\0\\game_data.sav",
+          "size": 896976
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\Ryujinx\\bis\\user\\save\\0000000000000002\\1\\tracker\\trackblock00.sav",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Ryujinx\\2025-08-29_23-37-39\\user\\save\\0000000000000002\\1\\tracker\\trackblock00.sav",
+          "size": 65536
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\Ryujinx\\bis\\user\\save\\0000000000000002\\0\\0\\caption.sav",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Ryujinx\\2025-08-29_23-37-39\\user\\save\\0000000000000002\\0\\0\\caption.sav",
+          "size": 1512
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\Ryujinx\\bis\\user\\save\\0000000000000002\\0\\0\\game_data.sav",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Ryujinx\\2025-08-29_23-37-39\\user\\save\\0000000000000002\\0\\0\\game_data.sav",
+          "size": 896976
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\Ryujinx\\bis\\user\\save\\0000000000000002\\0\\tracker\\trackblock00.sav",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Ryujinx\\2025-08-29_23-37-39\\user\\save\\0000000000000002\\0\\tracker\\trackblock00.sav",
+          "size": 65536
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\Ryujinx\\system\\Profiles.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Ryujinx\\2025-08-29_23-37-39\\Ryujinx\\system\\Profiles.json",
+          "size": 65647
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\Ryujinx\\games\\0100e2e0152e4000\\dlc.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Ryujinx\\2025-08-29_23-37-39\\games\\0100e2e0152e4000\\dlc.json",
+          "size": 2
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\Ryujinx\\games\\0100e2e0152e4000\\mods.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Ryujinx\\2025-08-29_23-37-39\\games\\0100e2e0152e4000\\mods.json",
+          "size": 443
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\Ryujinx\\games\\0100e2e0152e4000\\gui\\metadata.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Ryujinx\\2025-08-29_23-37-39\\0100e2e0152e4000\\gui\\metadata.json",
+          "size": 274
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\Ryujinx\\games\\01007ef00011e000\\gui\\metadata.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Ryujinx\\2025-08-29_23-37-39\\01007ef00011e000\\gui\\metadata.json",
+          "size": 168
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\Ryujinx\\games\\01001f5010dfa000\\gui\\metadata.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Ryujinx\\2025-08-29_23-37-39\\01001f5010dfa000\\gui\\metadata.json",
+          "size": 157
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\Ryujinx\\bis\\user\\save\\0000000000000002\\0\\option.sav",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Ryujinx\\2025-08-29_23-37-39\\user\\save\\0000000000000002\\0\\option.sav",
+          "size": 192
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\Ryujinx\\bis\\user\\save\\0000000000000002\\1\\option.sav",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Ryujinx\\2025-08-29_23-37-39\\user\\save\\0000000000000002\\1\\option.sav",
+          "size": 192
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\Ryujinx\\bis\\user\\save\\0000000000000002\\1\\0\\caption.sav",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Ryujinx\\2025-08-29_23-37-39\\user\\save\\0000000000000002\\1\\0\\caption.sav",
+          "size": 1512
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\Ryujinx\\bis\\user\\save\\0000000000000002\\1\\0\\game_data.sav",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Ryujinx\\2025-08-29_23-37-39\\user\\save\\0000000000000002\\1\\0\\game_data.sav",
+          "size": 896976
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\Ryujinx\\bis\\user\\save\\0000000000000002\\1\\tracker\\trackblock00.sav",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Ryujinx\\2025-08-29_23-37-39\\user\\save\\0000000000000002\\1\\tracker\\trackblock00.sav",
+          "size": 65536
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\Ryujinx\\bis\\user\\save\\0000000000000002\\0\\0\\caption.sav",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Ryujinx\\2025-08-29_23-37-39\\user\\save\\0000000000000002\\0\\0\\caption.sav",
+          "size": 1512
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\Ryujinx\\bis\\user\\save\\0000000000000002\\0\\0\\game_data.sav",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Ryujinx\\2025-08-29_23-37-39\\user\\save\\0000000000000002\\0\\0\\game_data.sav",
+          "size": 896976
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\Ryujinx\\bis\\user\\save\\0000000000000002\\0\\tracker\\trackblock00.sav",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Ryujinx\\2025-08-29_23-37-39\\user\\save\\0000000000000002\\0\\tracker\\trackblock00.sav",
+          "size": 65536
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\Ryujinx\\bis\\system\\save\\8000000000000030\\0\\MiiDatabase.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Ryujinx\\2025-08-29_23-37-39\\8000000000000030\\0\\MiiDatabase.dat",
+          "size": 6808
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Roaming\\Ryujinx\\bis\\system\\save\\8000000000000030\\1\\MiiDatabase.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Ryujinx\\2025-08-29_23-37-39\\8000000000000030\\1\\MiiDatabase.dat",
+          "size": 6808
+        }
+      ],
+      "count": 24,
+      "backup_dir": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Ryujinx\\2025-08-29_23-37-39"
+    },
+    "Blizzard": {
+      "files": [
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Blizzard\\Hearthstone\\in_game_message.igm.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Blizzard\\2025-08-29_23-37-39\\Blizzard\\Hearthstone\\in_game_message.igm.json",
+          "size": 8543
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Blizzard\\Hearthstone\\in_game_message_mercenaries.igm.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Blizzard\\2025-08-29_23-37-39\\Blizzard\\Hearthstone\\in_game_message_mercenaries.igm.json",
+          "size": 160
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Blizzard\\Hearthstone\\in_game_message_personalized.igm.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Blizzard\\2025-08-29_23-37-39\\Blizzard\\Hearthstone\\in_game_message_personalized.igm.json",
+          "size": 160
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Blizzard\\Hearthstone\\ViewCountsPath.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Blizzard\\2025-08-29_23-37-39\\Blizzard\\Hearthstone\\ViewCountsPath.json",
+          "size": 87
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Blizzard\\Hearthstone\\Cache\\MarketingImages\\mimg.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Blizzard\\2025-08-29_23-37-39\\Cache\\MarketingImages\\mimg.json",
+          "size": 34917
+        }
+      ],
+      "count": 5,
+      "backup_dir": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Blizzard\\2025-08-29_23-37-39"
+    },
+    "BusSimulator21": {
+      "files": [
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\BusSimulator21\\Saved\\SaveGames\\CompanyData000.sav",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\BusSimulator21\\2025-08-29_23-37-39\\SaveGames\\CompanyData000.sav",
+          "size": 4894
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\BusSimulator21\\Saved\\SaveGames\\PlayerProfile000.backup",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\BusSimulator21\\2025-08-29_23-37-39\\SaveGames\\PlayerProfile000.backup",
+          "size": 20941
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\BusSimulator21\\Saved\\SaveGames\\PlayerProfile000.sav",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\BusSimulator21\\2025-08-29_23-37-39\\SaveGames\\PlayerProfile000.sav",
+          "size": 20941
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\BusSimulator21\\Saved\\SaveGames\\CompanyData000.sav",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\BusSimulator21\\2025-08-29_23-37-39\\SaveGames\\CompanyData000.sav",
+          "size": 4894
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\BusSimulator21\\Saved\\SaveGames\\PlayerProfile000.backup",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\BusSimulator21\\2025-08-29_23-37-39\\SaveGames\\PlayerProfile000.backup",
+          "size": 20941
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\BusSimulator21\\Saved\\SaveGames\\PlayerProfile000.sav",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\BusSimulator21\\2025-08-29_23-37-39\\SaveGames\\PlayerProfile000.sav",
+          "size": 20941
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\BusSimulator21\\Saved\\Config\\WindowsNoEditor\\ApexDestruction.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\BusSimulator21\\2025-08-29_23-37-39\\Config\\WindowsNoEditor\\ApexDestruction.ini",
+          "size": 2
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\BusSimulator21\\Saved\\Config\\WindowsNoEditor\\BusSimDeveloper.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\BusSimulator21\\2025-08-29_23-37-39\\Config\\WindowsNoEditor\\BusSimDeveloper.ini",
+          "size": 2
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\BusSimulator21\\Saved\\Config\\WindowsNoEditor\\Compat.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\BusSimulator21\\2025-08-29_23-37-39\\Config\\WindowsNoEditor\\Compat.ini",
+          "size": 2
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\BusSimulator21\\Saved\\Config\\WindowsNoEditor\\DemoMode.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\BusSimulator21\\2025-08-29_23-37-39\\Config\\WindowsNoEditor\\DemoMode.ini",
+          "size": 2
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\BusSimulator21\\Saved\\Config\\WindowsNoEditor\\DeviceProfiles.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\BusSimulator21\\2025-08-29_23-37-39\\Config\\WindowsNoEditor\\DeviceProfiles.ini",
+          "size": 2
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\BusSimulator21\\Saved\\Config\\WindowsNoEditor\\EditorScriptingUtilities.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\BusSimulator21\\2025-08-29_23-37-39\\Config\\WindowsNoEditor\\EditorScriptingUtilities.ini",
+          "size": 2
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\BusSimulator21\\Saved\\Config\\WindowsNoEditor\\Engine.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\BusSimulator21\\2025-08-29_23-37-39\\Config\\WindowsNoEditor\\Engine.ini",
+          "size": 8845
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\BusSimulator21\\Saved\\Config\\WindowsNoEditor\\Game.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\BusSimulator21\\2025-08-29_23-37-39\\Config\\WindowsNoEditor\\Game.ini",
+          "size": 754
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\BusSimulator21\\Saved\\Config\\WindowsNoEditor\\GameplayTags.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\BusSimulator21\\2025-08-29_23-37-39\\Config\\WindowsNoEditor\\GameplayTags.ini",
+          "size": 2
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\BusSimulator21\\Saved\\Config\\WindowsNoEditor\\Hardware.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\BusSimulator21\\2025-08-29_23-37-39\\Config\\WindowsNoEditor\\Hardware.ini",
+          "size": 2
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\BusSimulator21\\Saved\\Config\\WindowsNoEditor\\Input.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\BusSimulator21\\2025-08-29_23-37-39\\Config\\WindowsNoEditor\\Input.ini",
+          "size": 6555
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\BusSimulator21\\Saved\\Config\\WindowsNoEditor\\MagicLeap.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\BusSimulator21\\2025-08-29_23-37-39\\Config\\WindowsNoEditor\\MagicLeap.ini",
+          "size": 2
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\BusSimulator21\\Saved\\Config\\WindowsNoEditor\\MagicLeapLightEstimation.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\BusSimulator21\\2025-08-29_23-37-39\\Config\\WindowsNoEditor\\MagicLeapLightEstimation.ini",
+          "size": 2
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\BusSimulator21\\Saved\\Config\\WindowsNoEditor\\MotoSynth.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\BusSimulator21\\2025-08-29_23-37-39\\Config\\WindowsNoEditor\\MotoSynth.ini",
+          "size": 2
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\BusSimulator21\\Saved\\Config\\WindowsNoEditor\\Niagara.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\BusSimulator21\\2025-08-29_23-37-39\\Config\\WindowsNoEditor\\Niagara.ini",
+          "size": 2
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\BusSimulator21\\Saved\\Config\\WindowsNoEditor\\Paper2D.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\BusSimulator21\\2025-08-29_23-37-39\\Config\\WindowsNoEditor\\Paper2D.ini",
+          "size": 2
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\BusSimulator21\\Saved\\Config\\WindowsNoEditor\\PhysXVehicles.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\BusSimulator21\\2025-08-29_23-37-39\\Config\\WindowsNoEditor\\PhysXVehicles.ini",
+          "size": 2
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\BusSimulator21\\Saved\\Config\\WindowsNoEditor\\RuntimeOptions.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\BusSimulator21\\2025-08-29_23-37-39\\Config\\WindowsNoEditor\\RuntimeOptions.ini",
+          "size": 2
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\BusSimulator21\\Saved\\Config\\WindowsNoEditor\\Scalability.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\BusSimulator21\\2025-08-29_23-37-39\\Config\\WindowsNoEditor\\Scalability.ini",
+          "size": 2
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\BusSimulator21\\Saved\\Config\\WindowsNoEditor\\Synthesis.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\BusSimulator21\\2025-08-29_23-37-39\\Config\\WindowsNoEditor\\Synthesis.ini",
+          "size": 2
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\BusSimulator21\\Saved\\Config\\WindowsNoEditor\\VariantManagerContent.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\BusSimulator21\\2025-08-29_23-37-39\\Config\\WindowsNoEditor\\VariantManagerContent.ini",
+          "size": 2
+        }
+      ],
+      "count": 27,
+      "backup_dir": "C:\\Code Directory\\ez-back-reload\\loaded saves\\BusSimulator21\\2025-08-29_23-37-39"
+    },
+    "Epic Games": {
+      "files": [
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Epic Games\\Epic Online Services\\MainService\\data.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Epic Games\\2025-08-29_23-37-39\\Epic Online Services\\MainService\\data.json",
+          "size": 1401
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Epic Games\\Epic Online Services\\UI Helper\\Cache\\LocalPrefs.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Epic Games\\2025-08-29_23-37-39\\UI Helper\\Cache\\LocalPrefs.json",
+          "size": 479
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Epic Games\\EOSOverlay\\BrowserCache\\0\\hyphen-data\\120.0.6050.0\\_metadata\\verified_contents.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Epic Games\\2025-08-29_23-37-39\\120.0.6050.0\\_metadata\\verified_contents.json",
+          "size": 7328
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Epic Games\\EOSOverlay\\BrowserCache\\0\\PKIMetadata\\1331\\_metadata\\verified_contents.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Epic Games\\2025-08-29_23-37-39\\1331\\_metadata\\verified_contents.json",
+          "size": 1969
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Epic Games\\EOSOverlay\\BrowserCache\\0\\TpcdMetadata\\2025.6.4.1\\_metadata\\verified_contents.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Epic Games\\2025-08-29_23-37-39\\2025.6.4.1\\_metadata\\verified_contents.json",
+          "size": 1762
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Epic Games\\EOSOverlay\\BrowserCache\\0\\ZxcvbnData\\3\\_metadata\\verified_contents.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Epic Games\\2025-08-29_23-37-39\\3\\_metadata\\verified_contents.json",
+          "size": 2437
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Epic Games\\EOSOverlay\\BrowserCache\\0\\ZxcvbnData\\3\\_metadata\\verified_contents.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Epic Games\\2025-08-29_23-37-39\\3\\_metadata\\verified_contents.json",
+          "size": 2437
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Epic Games\\EOSOverlay\\BrowserCache\\0\\ZxcvbnData\\3\\_metadata\\verified_contents.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Epic Games\\2025-08-29_23-37-39\\3\\_metadata\\verified_contents.json",
+          "size": 2437
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Epic Games\\EOSOverlay\\BrowserCache\\0\\WidevineCdm\\4.10.2891.0\\_metadata\\verified_contents.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Epic Games\\2025-08-29_23-37-39\\4.10.2891.0\\_metadata\\verified_contents.json",
+          "size": 1550
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Epic Games\\EOSOverlay\\BrowserCache\\0\\WidevineCdm\\4.10.2891.0\\_metadata\\verified_contents.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Epic Games\\2025-08-29_23-37-39\\4.10.2891.0\\_metadata\\verified_contents.json",
+          "size": 1550
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Epic Games\\EOSOverlay\\BrowserCache\\0\\TrustTokenKeyCommitments\\2025.5.15.1\\keys.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Epic Games\\2025-08-29_23-37-39\\TrustTokenKeyCommitments\\2025.5.15.1\\keys.json",
+          "size": 7887
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Epic Games\\EOSOverlay\\BrowserCache\\0\\TrustTokenKeyCommitments\\2025.5.15.1\\_metadata\\verified_contents.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Epic Games\\2025-08-29_23-37-39\\2025.5.15.1\\_metadata\\verified_contents.json",
+          "size": 1864
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Epic Games\\EOSOverlay\\BrowserCache\\0\\TrustTokenKeyCommitments\\2025.5.15.1\\_metadata\\verified_contents.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Epic Games\\2025-08-29_23-37-39\\2025.5.15.1\\_metadata\\verified_contents.json",
+          "size": 1864
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Epic Games\\EOSOverlay\\BrowserCache\\0\\TpcdMetadata\\2025.6.4.1\\_metadata\\verified_contents.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Epic Games\\2025-08-29_23-37-39\\2025.6.4.1\\_metadata\\verified_contents.json",
+          "size": 1762
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Epic Games\\EOSOverlay\\BrowserCache\\0\\TpcdMetadata\\2025.6.4.1\\_metadata\\verified_contents.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Epic Games\\2025-08-29_23-37-39\\2025.6.4.1\\_metadata\\verified_contents.json",
+          "size": 1762
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Epic Games\\EOSOverlay\\BrowserCache\\0\\Subresource Filter\\Unindexed Rules\\9.56.0\\_metadata\\verified_contents.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Epic Games\\2025-08-29_23-37-39\\9.56.0\\_metadata\\verified_contents.json",
+          "size": 1529
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Epic Games\\EOSOverlay\\BrowserCache\\0\\Subresource Filter\\Unindexed Rules\\9.56.0\\_metadata\\verified_contents.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Epic Games\\2025-08-29_23-37-39\\9.56.0\\_metadata\\verified_contents.json",
+          "size": 1529
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Epic Games\\EOSOverlay\\BrowserCache\\0\\SSLErrorAssistant\\7\\_metadata\\verified_contents.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Epic Games\\2025-08-29_23-37-39\\7\\_metadata\\verified_contents.json",
+          "size": 1765
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Epic Games\\EOSOverlay\\BrowserCache\\0\\SSLErrorAssistant\\7\\_metadata\\verified_contents.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Epic Games\\2025-08-29_23-37-39\\7\\_metadata\\verified_contents.json",
+          "size": 1765
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Epic Games\\EOSOverlay\\BrowserCache\\0\\SafetyTips\\3071\\_metadata\\verified_contents.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Epic Games\\2025-08-29_23-37-39\\3071\\_metadata\\verified_contents.json",
+          "size": 1758
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Epic Games\\EOSOverlay\\BrowserCache\\0\\SafetyTips\\3071\\_metadata\\verified_contents.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Epic Games\\2025-08-29_23-37-39\\3071\\_metadata\\verified_contents.json",
+          "size": 1758
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Epic Games\\EOSOverlay\\BrowserCache\\0\\PrivacySandboxAttestationsPreloaded\\2025.5.21.0\\privacy-sandbox-attestations.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Epic Games\\2025-08-29_23-37-39\\PrivacySandboxAttestationsPreloaded\\2025.5.21.0\\privacy-sandbox-attestations.dat",
+          "size": 7670
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Epic Games\\EOSOverlay\\BrowserCache\\0\\PrivacySandboxAttestationsPreloaded\\2025.5.21.0\\_metadata\\verified_contents.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Epic Games\\2025-08-29_23-37-39\\2025.5.21.0\\_metadata\\verified_contents.json",
+          "size": 1792
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Epic Games\\EOSOverlay\\BrowserCache\\0\\PrivacySandboxAttestationsPreloaded\\2025.5.21.0\\_metadata\\verified_contents.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Epic Games\\2025-08-29_23-37-39\\2025.5.21.0\\_metadata\\verified_contents.json",
+          "size": 1792
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Epic Games\\EOSOverlay\\BrowserCache\\0\\PKIMetadata\\1331\\_metadata\\verified_contents.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Epic Games\\2025-08-29_23-37-39\\1331\\_metadata\\verified_contents.json",
+          "size": 1969
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Epic Games\\EOSOverlay\\BrowserCache\\0\\PKIMetadata\\1331\\_metadata\\verified_contents.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Epic Games\\2025-08-29_23-37-39\\1331\\_metadata\\verified_contents.json",
+          "size": 1969
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Epic Games\\EOSOverlay\\BrowserCache\\0\\OriginTrials\\1.0.0.17\\_metadata\\verified_contents.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Epic Games\\2025-08-29_23-37-39\\1.0.0.17\\_metadata\\verified_contents.json",
+          "size": 1311
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Epic Games\\EOSOverlay\\BrowserCache\\0\\OriginTrials\\1.0.0.17\\_metadata\\verified_contents.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Epic Games\\2025-08-29_23-37-39\\1.0.0.17\\_metadata\\verified_contents.json",
+          "size": 1311
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Epic Games\\EOSOverlay\\BrowserCache\\0\\OptimizationHints\\514\\_metadata\\verified_contents.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Epic Games\\2025-08-29_23-37-39\\514\\_metadata\\verified_contents.json",
+          "size": 1766
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Epic Games\\EOSOverlay\\BrowserCache\\0\\OptimizationHints\\514\\_metadata\\verified_contents.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Epic Games\\2025-08-29_23-37-39\\514\\_metadata\\verified_contents.json",
+          "size": 1766
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Epic Games\\EOSOverlay\\BrowserCache\\0\\OnDeviceHeadSuggestModel\\20250522.762470205.14\\_metadata\\verified_contents.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Epic Games\\2025-08-29_23-37-39\\20250522.762470205.14\\_metadata\\verified_contents.json",
+          "size": 1796
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Epic Games\\EOSOverlay\\BrowserCache\\0\\OnDeviceHeadSuggestModel\\20250522.762470205.14\\_metadata\\verified_contents.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Epic Games\\2025-08-29_23-37-39\\20250522.762470205.14\\_metadata\\verified_contents.json",
+          "size": 1796
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Epic Games\\EOSOverlay\\BrowserCache\\0\\MEIPreload\\1.0.7.1744928549\\_metadata\\verified_contents.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Epic Games\\2025-08-29_23-37-39\\1.0.7.1744928549\\_metadata\\verified_contents.json",
+          "size": 1778
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Epic Games\\EOSOverlay\\BrowserCache\\0\\MEIPreload\\1.0.7.1744928549\\_metadata\\verified_contents.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Epic Games\\2025-08-29_23-37-39\\1.0.7.1744928549\\_metadata\\verified_contents.json",
+          "size": 1778
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Epic Games\\EOSOverlay\\BrowserCache\\0\\hyphen-data\\120.0.6050.0\\_metadata\\verified_contents.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Epic Games\\2025-08-29_23-37-39\\120.0.6050.0\\_metadata\\verified_contents.json",
+          "size": 7328
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Epic Games\\EOSOverlay\\BrowserCache\\0\\hyphen-data\\120.0.6050.0\\_metadata\\verified_contents.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Epic Games\\2025-08-29_23-37-39\\120.0.6050.0\\_metadata\\verified_contents.json",
+          "size": 7328
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Epic Games\\EOSOverlay\\BrowserCache\\0\\FirstPartySetsPreloaded\\2025.4.2.0\\sets.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Epic Games\\2025-08-29_23-37-39\\FirstPartySetsPreloaded\\2025.4.2.0\\sets.json",
+          "size": 10134
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Epic Games\\EOSOverlay\\BrowserCache\\0\\FirstPartySetsPreloaded\\2025.4.2.0\\_metadata\\verified_contents.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Epic Games\\2025-08-29_23-37-39\\2025.4.2.0\\_metadata\\verified_contents.json",
+          "size": 1862
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Epic Games\\EOSOverlay\\BrowserCache\\0\\FirstPartySetsPreloaded\\2025.4.2.0\\_metadata\\verified_contents.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Epic Games\\2025-08-29_23-37-39\\2025.4.2.0\\_metadata\\verified_contents.json",
+          "size": 1862
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Epic Games\\EOSOverlay\\BrowserCache\\0\\FileTypePolicies\\67\\_metadata\\verified_contents.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Epic Games\\2025-08-29_23-37-39\\67\\_metadata\\verified_contents.json",
+          "size": 1425
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Epic Games\\EOSOverlay\\BrowserCache\\0\\FileTypePolicies\\67\\_metadata\\verified_contents.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Epic Games\\2025-08-29_23-37-39\\67\\_metadata\\verified_contents.json",
+          "size": 1425
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Epic Games\\EOSOverlay\\BrowserCache\\0\\Crowd Deny\\2025.6.3.47\\_metadata\\verified_contents.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Epic Games\\2025-08-29_23-37-39\\2025.6.3.47\\_metadata\\verified_contents.json",
+          "size": 1765
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Epic Games\\EOSOverlay\\BrowserCache\\0\\Crowd Deny\\2025.6.3.47\\_metadata\\verified_contents.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Epic Games\\2025-08-29_23-37-39\\2025.6.3.47\\_metadata\\verified_contents.json",
+          "size": 1765
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Epic Games\\EOSOverlay\\BrowserCache\\0\\CertificateRevocation\\9841\\_metadata\\verified_contents.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Epic Games\\2025-08-29_23-37-39\\9841\\_metadata\\verified_contents.json",
+          "size": 1511
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Epic Games\\EOSOverlay\\BrowserCache\\0\\CertificateRevocation\\9841\\_metadata\\verified_contents.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Epic Games\\2025-08-29_23-37-39\\9841\\_metadata\\verified_contents.json",
+          "size": 1511
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Epic Games\\EOSOverlay\\BrowserCache\\0\\AutofillStates\\2024.7.12.235938\\_metadata\\verified_contents.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Epic Games\\2025-08-29_23-37-39\\2024.7.12.235938\\_metadata\\verified_contents.json",
+          "size": 23262
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Epic Games\\EOSOverlay\\BrowserCache\\0\\AutofillStates\\2024.7.12.235938\\_metadata\\verified_contents.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Epic Games\\2025-08-29_23-37-39\\2024.7.12.235938\\_metadata\\verified_contents.json",
+          "size": 23262
+        }
+      ],
+      "count": 47,
+      "backup_dir": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Epic Games\\2025-08-29_23-37-39"
+    },
+    "EpicGamesLauncher": {
+      "files": [
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\EpicGamesLauncher\\Saved\\Data\\b1869ca47f4a435398bde09c2970b92c.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\EpicGamesLauncher\\2025-08-29_23-37-39\\Data\\b1869ca47f4a435398bde09c2970b92c.dat",
+          "size": 15
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\EpicGamesLauncher\\Saved\\Data\\OC_b1869ca47f4a435398bde09c2970b92c.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\EpicGamesLauncher\\2025-08-29_23-37-39\\Data\\OC_b1869ca47f4a435398bde09c2970b92c.dat",
+          "size": 12574
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\EpicGamesLauncher\\Saved\\Data\\b1869ca47f4a435398bde09c2970b92c.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\EpicGamesLauncher\\2025-08-29_23-37-39\\Data\\b1869ca47f4a435398bde09c2970b92c.dat",
+          "size": 15
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\EpicGamesLauncher\\Saved\\Data\\OC_b1869ca47f4a435398bde09c2970b92c.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\EpicGamesLauncher\\2025-08-29_23-37-39\\Data\\OC_b1869ca47f4a435398bde09c2970b92c.dat",
+          "size": 12574
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\EpicGamesLauncher\\Saved\\Config\\Windows\\Compat.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\EpicGamesLauncher\\2025-08-29_23-37-39\\Config\\Windows\\Compat.ini",
+          "size": 2
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\EpicGamesLauncher\\Saved\\Config\\Windows\\DeviceProfiles.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\EpicGamesLauncher\\2025-08-29_23-37-39\\Config\\Windows\\DeviceProfiles.ini",
+          "size": 2
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\EpicGamesLauncher\\Saved\\Config\\Windows\\Engine.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\EpicGamesLauncher\\2025-08-29_23-37-39\\Config\\Windows\\Engine.ini",
+          "size": 2
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\EpicGamesLauncher\\Saved\\Config\\Windows\\Game.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\EpicGamesLauncher\\2025-08-29_23-37-39\\Config\\Windows\\Game.ini",
+          "size": 2
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\EpicGamesLauncher\\Saved\\Config\\Windows\\Hardware.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\EpicGamesLauncher\\2025-08-29_23-37-39\\Config\\Windows\\Hardware.ini",
+          "size": 2
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\EpicGamesLauncher\\Saved\\Config\\Windows\\Input.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\EpicGamesLauncher\\2025-08-29_23-37-39\\Config\\Windows\\Input.ini",
+          "size": 2
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\EpicGamesLauncher\\Saved\\Config\\Windows\\Lightmass.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\EpicGamesLauncher\\2025-08-29_23-37-39\\Config\\Windows\\Lightmass.ini",
+          "size": 2
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\EpicGamesLauncher\\Saved\\Config\\Windows\\PortalRegions.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\EpicGamesLauncher\\2025-08-29_23-37-39\\Config\\Windows\\PortalRegions.ini",
+          "size": 148
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\EpicGamesLauncher\\Saved\\Config\\Windows\\RuntimeOptions.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\EpicGamesLauncher\\2025-08-29_23-37-39\\Config\\Windows\\RuntimeOptions.ini",
+          "size": 2
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\EpicGamesLauncher\\Intermediate\\Config\\CoalescedSourceConfigs\\PortalRegions.ini",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\EpicGamesLauncher\\2025-08-29_23-37-39\\Config\\CoalescedSourceConfigs\\PortalRegions.ini",
+          "size": 35095
+        }
+      ],
+      "count": 14,
+      "backup_dir": "C:\\Code Directory\\ez-back-reload\\loaded saves\\EpicGamesLauncher\\2025-08-29_23-37-39"
+    },
+    "IronGalaxy": {
+      "files": [
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\IronGalaxy\\THPS\\Saved\\SaveGames\\CAP-OwnedParks.sav",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\IronGalaxy\\2025-08-29_23-37-39\\SaveGames\\CAP-OwnedParks.sav",
+          "size": 1316
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\IronGalaxy\\THPS\\Saved\\SaveGames\\ChicagoSaveSlot.sav",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\IronGalaxy\\2025-08-29_23-37-39\\SaveGames\\ChicagoSaveSlot.sav",
+          "size": 3133588
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\IronGalaxy\\THPS\\Saved\\SaveGames\\CAP-OwnedParks.sav",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\IronGalaxy\\2025-08-29_23-37-39\\SaveGames\\CAP-OwnedParks.sav",
+          "size": 1316
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\IronGalaxy\\THPS\\Saved\\SaveGames\\ChicagoSaveSlot.sav",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\IronGalaxy\\2025-08-29_23-37-39\\SaveGames\\ChicagoSaveSlot.sav",
+          "size": 3133588
+        }
+      ],
+      "count": 4,
+      "backup_dir": "C:\\Code Directory\\ez-back-reload\\loaded saves\\IronGalaxy\\2025-08-29_23-37-39"
+    },
+    "Nexon": {
+      "files": [
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\106603.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\Nexon\\MapleStory Worlds\\106603.dat",
+          "size": 629
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\GameAuthData",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\Nexon\\MapleStory Worlds\\GameAuthData",
+          "size": 32
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\globalgamemanagers",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\MapleStory Worlds\\msw_Data\\globalgamemanagers",
+          "size": 14710548
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\globalgamemanagers.assets",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\MapleStory Worlds\\msw_Data\\globalgamemanagers.assets",
+          "size": 1574352
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\globalgamemanagers.assets.resS",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\MapleStory Worlds\\msw_Data\\globalgamemanagers.assets.resS",
+          "size": 3384000
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\RuntimeInitializeOnLoads.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\MapleStory Worlds\\msw_Data\\RuntimeInitializeOnLoads.json",
+          "size": 18185
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\ScriptingAssemblies.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\MapleStory Worlds\\msw_Data\\ScriptingAssemblies.json",
+          "size": 7519
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\StreamingAssets\\aa\\AddressablesLink\\link.xml",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\aa\\AddressablesLink\\link.xml",
+          "size": 2012
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\Plugins\\x86_64\\VuplexWebViewChromium\\icudtl.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\x86_64\\VuplexWebViewChromium\\icudtl.dat",
+          "size": 10284336
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\Plugins\\x86_64\\ToyWebView\\Plugins\\Windows\\icudtl.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\Plugins\\Windows\\icudtl.dat",
+          "size": 10404784
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\Plugins\\x86_64\\ToyWebView\\Plugins\\Windows\\vk_swiftshader_icd.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\Plugins\\Windows\\vk_swiftshader_icd.json",
+          "size": 106
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\il2cpp_data\\Metadata\\global-metadata.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\il2cpp_data\\Metadata\\global-metadata.dat",
+          "size": 33501990
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\il2cpp_data\\Resources\\Coffee.UIParticle.R.dll-resources.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\il2cpp_data\\Resources\\Coffee.UIParticle.R.dll-resources.dat",
+          "size": 17
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\il2cpp_data\\Resources\\Microsoft.Extensions.DependencyInjection.Abstractions.dll-resources.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\il2cpp_data\\Resources\\Microsoft.Extensions.DependencyInjection.Abstractions.dll-resources.dat",
+          "size": 1237
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\il2cpp_data\\Resources\\Microsoft.Extensions.DependencyInjection.dll-resources.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\il2cpp_data\\Resources\\Microsoft.Extensions.DependencyInjection.dll-resources.dat",
+          "size": 2292
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\il2cpp_data\\Resources\\mscorlib.dll-resources.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\il2cpp_data\\Resources\\mscorlib.dll-resources.dat",
+          "size": 337563
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\il2cpp_data\\Resources\\NAudio.dll-resources.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\il2cpp_data\\Resources\\NAudio.dll-resources.dat",
+          "size": 10627
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\il2cpp_data\\Resources\\Stateless.dll-resources.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\il2cpp_data\\Resources\\Stateless.dll-resources.dat",
+          "size": 2256
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\il2cpp_data\\Resources\\System.Collections.Immutable.dll-resources.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\il2cpp_data\\Resources\\System.Collections.Immutable.dll-resources.dat",
+          "size": 1636
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\il2cpp_data\\Resources\\System.Data.dll-resources.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\il2cpp_data\\Resources\\System.Data.dll-resources.dat",
+          "size": 93718
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\il2cpp_data\\Resources\\System.Drawing.dll-resources.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\il2cpp_data\\Resources\\System.Drawing.dll-resources.dat",
+          "size": 25453
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\il2cpp_data\\Resources\\System.Text.Encodings.Web.dll-resources.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\il2cpp_data\\Resources\\System.Text.Encodings.Web.dll-resources.dat",
+          "size": 435
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\il2cpp_data\\Resources\\System.Text.Json.dll-resources.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\il2cpp_data\\Resources\\System.Text.Json.dll-resources.dat",
+          "size": 33482
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\LuaProfiler\\MODLuaProfileViewer.deps.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\MapleStory Worlds\\LuaProfiler\\MODLuaProfileViewer.deps.json",
+          "size": 4372
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\globalgamemanagers",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\MapleStory Worlds\\msw_Data\\globalgamemanagers",
+          "size": 14710548
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\globalgamemanagers.assets",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\MapleStory Worlds\\msw_Data\\globalgamemanagers.assets",
+          "size": 1574352
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\globalgamemanagers.assets.resS",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\MapleStory Worlds\\msw_Data\\globalgamemanagers.assets.resS",
+          "size": 3384000
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\il2cpp_data\\Metadata\\global-metadata.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\il2cpp_data\\Metadata\\global-metadata.dat",
+          "size": 33501990
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\il2cpp_data\\Resources\\Coffee.UIParticle.R.dll-resources.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\il2cpp_data\\Resources\\Coffee.UIParticle.R.dll-resources.dat",
+          "size": 17
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\il2cpp_data\\Resources\\Microsoft.Extensions.DependencyInjection.Abstractions.dll-resources.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\il2cpp_data\\Resources\\Microsoft.Extensions.DependencyInjection.Abstractions.dll-resources.dat",
+          "size": 1237
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\il2cpp_data\\Resources\\Microsoft.Extensions.DependencyInjection.dll-resources.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\il2cpp_data\\Resources\\Microsoft.Extensions.DependencyInjection.dll-resources.dat",
+          "size": 2292
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\il2cpp_data\\Resources\\mscorlib.dll-resources.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\il2cpp_data\\Resources\\mscorlib.dll-resources.dat",
+          "size": 337563
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\il2cpp_data\\Resources\\NAudio.dll-resources.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\il2cpp_data\\Resources\\NAudio.dll-resources.dat",
+          "size": 10627
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\il2cpp_data\\Resources\\Stateless.dll-resources.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\il2cpp_data\\Resources\\Stateless.dll-resources.dat",
+          "size": 2256
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\il2cpp_data\\Resources\\System.Collections.Immutable.dll-resources.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\il2cpp_data\\Resources\\System.Collections.Immutable.dll-resources.dat",
+          "size": 1636
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\il2cpp_data\\Resources\\System.Data.dll-resources.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\il2cpp_data\\Resources\\System.Data.dll-resources.dat",
+          "size": 93718
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\il2cpp_data\\Resources\\System.Drawing.dll-resources.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\il2cpp_data\\Resources\\System.Drawing.dll-resources.dat",
+          "size": 25453
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\il2cpp_data\\Resources\\System.Text.Encodings.Web.dll-resources.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\il2cpp_data\\Resources\\System.Text.Encodings.Web.dll-resources.dat",
+          "size": 435
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\il2cpp_data\\Resources\\System.Text.Json.dll-resources.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\il2cpp_data\\Resources\\System.Text.Json.dll-resources.dat",
+          "size": 33482
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\RuntimeInitializeOnLoads.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\MapleStory Worlds\\msw_Data\\RuntimeInitializeOnLoads.json",
+          "size": 18185
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\ScriptingAssemblies.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\MapleStory Worlds\\msw_Data\\ScriptingAssemblies.json",
+          "size": 7519
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\il2cpp_data\\Metadata\\global-metadata.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\il2cpp_data\\Metadata\\global-metadata.dat",
+          "size": 33501990
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\StreamingAssets\\aa\\AddressablesLink\\link.xml",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\aa\\AddressablesLink\\link.xml",
+          "size": 2012
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\Plugins\\x86_64\\VuplexWebViewChromium\\icudtl.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\x86_64\\VuplexWebViewChromium\\icudtl.dat",
+          "size": 10284336
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\Plugins\\x86_64\\ToyWebView\\Plugins\\Windows\\icudtl.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\Plugins\\Windows\\icudtl.dat",
+          "size": 10404784
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\Plugins\\x86_64\\ToyWebView\\Plugins\\Windows\\vk_swiftshader_icd.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\Plugins\\Windows\\vk_swiftshader_icd.json",
+          "size": 106
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\il2cpp_data\\Metadata\\global-metadata.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\il2cpp_data\\Metadata\\global-metadata.dat",
+          "size": 33501990
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\il2cpp_data\\Resources\\Coffee.UIParticle.R.dll-resources.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\il2cpp_data\\Resources\\Coffee.UIParticle.R.dll-resources.dat",
+          "size": 17
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\il2cpp_data\\Resources\\Microsoft.Extensions.DependencyInjection.Abstractions.dll-resources.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\il2cpp_data\\Resources\\Microsoft.Extensions.DependencyInjection.Abstractions.dll-resources.dat",
+          "size": 1237
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\il2cpp_data\\Resources\\Microsoft.Extensions.DependencyInjection.dll-resources.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\il2cpp_data\\Resources\\Microsoft.Extensions.DependencyInjection.dll-resources.dat",
+          "size": 2292
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\il2cpp_data\\Resources\\mscorlib.dll-resources.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\il2cpp_data\\Resources\\mscorlib.dll-resources.dat",
+          "size": 337563
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\il2cpp_data\\Resources\\NAudio.dll-resources.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\il2cpp_data\\Resources\\NAudio.dll-resources.dat",
+          "size": 10627
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\il2cpp_data\\Resources\\Stateless.dll-resources.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\il2cpp_data\\Resources\\Stateless.dll-resources.dat",
+          "size": 2256
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\il2cpp_data\\Resources\\System.Collections.Immutable.dll-resources.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\il2cpp_data\\Resources\\System.Collections.Immutable.dll-resources.dat",
+          "size": 1636
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\il2cpp_data\\Resources\\System.Data.dll-resources.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\il2cpp_data\\Resources\\System.Data.dll-resources.dat",
+          "size": 93718
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\il2cpp_data\\Resources\\System.Drawing.dll-resources.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\il2cpp_data\\Resources\\System.Drawing.dll-resources.dat",
+          "size": 25453
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\il2cpp_data\\Resources\\System.Text.Encodings.Web.dll-resources.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\il2cpp_data\\Resources\\System.Text.Encodings.Web.dll-resources.dat",
+          "size": 435
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Nexon\\MapleStory Worlds\\msw_Data\\il2cpp_data\\Resources\\System.Text.Json.dll-resources.dat",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39\\il2cpp_data\\Resources\\System.Text.Json.dll-resources.dat",
+          "size": 33482
+        }
+      ],
+      "count": 58,
+      "backup_dir": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Nexon\\2025-08-29_23-37-39"
+    },
+    "Riot Games": {
+      "files": [
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Riot Games\\Riot Client\\Crashes\\Riot Client\\6c9b41fa-d262-4e1a-f805-c8807e9965eb.run\\session.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Riot Games\\2025-08-29_23-37-39\\Riot Client\\6c9b41fa-d262-4e1a-f805-c8807e9965eb.run\\session.json",
+          "size": 250
+        }
+      ],
+      "count": 1,
+      "backup_dir": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Riot Games\\2025-08-29_23-37-39"
+    },
+    "Steam": {
+      "files": [
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Steam\\htmlcache\\LocalPrefs.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Steam\\2025-08-29_23-37-39\\Steam\\htmlcache\\LocalPrefs.json",
+          "size": 822
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Steam\\htmlcache\\UserPrefs.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Steam\\2025-08-29_23-37-39\\Steam\\htmlcache\\UserPrefs.json",
+          "size": 2505
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Steam\\htmlcache\\WidevineCdm\\4.10.2891.0\\_metadata\\verified_contents.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Steam\\2025-08-29_23-37-39\\4.10.2891.0\\_metadata\\verified_contents.json",
+          "size": 1550
+        },
+        {
+          "original": "C:\\Users\\war\\AppData\\Local\\Steam\\htmlcache\\WidevineCdm\\4.10.2891.0\\_metadata\\verified_contents.json",
+          "backup": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Steam\\2025-08-29_23-37-39\\4.10.2891.0\\_metadata\\verified_contents.json",
+          "size": 1550
+        }
+      ],
+      "count": 4,
+      "backup_dir": "C:\\Code Directory\\ez-back-reload\\loaded saves\\Steam\\2025-08-29_23-37-39"
+    }
+  },
+  "total_files": 301,
+  "errors": []
+}
