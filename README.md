@@ -13,7 +13,19 @@ A Python utility that automatically locates and backs up game save files from va
 
 ## Usage
 
-### Basic Usage
+### Electron GUI (Recommended)
+```bash
+# Navigate to UI directory and install dependencies (first time only)
+cd ui
+npm install
+
+# Launch the GUI application
+npm start
+```
+
+### Command Line Interface
+
+#### Basic Usage
 ```bash
 python backup_saves.py
 ```
@@ -41,6 +53,13 @@ game_scanner.py          # Core scanning logic for finding saves
 save_patterns.py         # Database of game save locations and patterns
 backup_manager.py        # Handles copying and organizing backups
 config.py               # Configuration settings
+ui/                     # Electron frontend application
+  main.js               # Electron main process
+  preload.js            # Secure context bridge
+  index.html            # UI structure
+  styles.css            # Obsidian-inspired dark theme
+  renderer.js           # Frontend logic
+  package.json          # Node.js dependencies
 loaded saves/           # Local backup storage directory
   [Game Name]/          # Organized by game
     YYYY-MM-DD_HH-MM-SS/  # Timestamped backup folders
@@ -62,6 +81,11 @@ The utility includes patterns for popular games including:
 
 ## Requirements
 
+### For GUI (Electron)
+- Node.js 16+ and npm
+- Python 3.x (for backend operations)
+
+### For CLI only
 - Python 3.x
 - Standard library only (no external dependencies)
 

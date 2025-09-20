@@ -1,0 +1,19 @@
+{
+  "name": "ez-backup-reload-ui",
+  "version": "1.0.0",
+  "description": "Game Save Backup Utility - Electron Frontend",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "electron . --inspect=9229",
+    "build": "electron-builder"
+  },
+  "keywords": ["electron", "game", "backup", "save"],
+  "author": "Ez Backup Reload",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^27.0.0",
+    "electron-builder": "^24.6.4"
+  },
+  "dependencies": {}
+}

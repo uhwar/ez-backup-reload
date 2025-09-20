@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🎮 Ez Backup Reload</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Loading Screen -->
+    <div id="loading-screen" class="loading-screen">
+        <div class="loading-content">
+            <div class="loading-spinner"></div>
+            <h2>🎮 Ez Backup Reload</h2>
+            <p>Initializing...</p>
+        </div>
+    </div>
+    
+    <!-- Main App -->
+    <div class="app-container" id="app-container" style="display: none;">
+        <!-- Custom Title Bar -->
+        <div class="title-bar">
+            <div class="title-bar-content">
+                <div class="title-bar-title">
+                    <span class="emoji">🎮</span>
+                    Ez Backup Reload
+                </div>
+            </div>
+            <div class="window-controls">
+                <button class="window-control-btn minimize-btn" id="minimize-btn" title="Minimize">
+                    <span class="control-icon">−</span>
+                </button>
+                <button class="window-control-btn maximize-btn" id="maximize-btn" title="Maximize">
+                    <span class="control-icon" id="maximize-icon">□</span>
+                </button>
+                <button class="window-control-btn close-btn" id="close-btn" title="Close">
+                    <span class="control-icon">×</span>
+                </button>
+            </div>
+        </div>
+
+        <!-- Header -->
+        <header class="header">
+            <div class="header-content">
+                <div class="version-info">
+                    <span id="electron-version"></span>
+                </div>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Sidebar -->
+            <aside class="sidebar">
+                <nav class="nav-menu">
+                    <button class="nav-item active" data-tab="scan">
+                        <span class="emoji">🔍</span>
+                        Scan Saves
+                    </button>
+                    <button class="nav-item" data-tab="backup">
+                        <span class="emoji">💾</span>
+                        Backup Saves
+                    </button>
+                    <button class="nav-item" data-tab="backups">
+                        <span class="emoji">📁</span>
+                        View Backups
+                    </button>
+                    <button class="nav-item" data-tab="logs">
+                        <span class="emoji">📄</span>
+                        View Logs
+                    </button>
+                </nav>
+            </aside>
+
+            <!-- Content Area -->
+            <section class="content-area">
+                <!-- Scan Tab -->
+                <div class="tab-content active" id="scan-tab">
+                    <div class="tab-header">
+                        <h2>🔍 Scan for Game Saves</h2>
+                        <p class="tab-description">
+                            Scan your system for game save files without backing them up
+                        </p>
+                    </div>
+
+                    <div class="controls">
+                        <div class="input-group">
+                            <label for="scan-game-filter">Filter by game (optional):</label>
+                            <input type="text" id="scan-game-filter" placeholder="e.g., Skyrim, Cyberpunk...">
+                        </div>
+                        <button id="scan-btn" class="btn btn-primary">
+                            <span class="emoji">🔍</span>
+                            Start Scan
+                        </button>
+                    </div>
+
+                    <div class="output-container">
+                        <div class="output-header">
+                            <h3>Scan Results</h3>
+                            <div class="status" id="scan-status">Ready</div>
+                        </div>
+                        <pre class="output" id="scan-output">Click "Start Scan" to begin...</pre>
+                    </div>
+                </div>
+
+                <!-- Backup Tab -->
+                <div class="tab-content" id="backup-tab">
+                    <div class="tab-header">
+                        <h2>💾 Backup Game Saves</h2>
+                        <p class="tab-description">
+                            Create backups of your game save files
+                        </p>
+                    </div>
+
+                    <div class="controls">
+                        <div class="input-group">
+                            <label for="backup-game-filter">Filter by game (optional):</label>
+                            <input type="text" id="backup-game-filter" placeholder="e.g., Skyrim, Cyberpunk...">
+                        </div>
+                        <button id="backup-btn" class="btn btn-primary">
+                            <span class="emoji">💾</span>
+                            Start Backup
+                        </button>
+                    </div>
+
+                    <div class="output-container">
+                        <div class="output-header">
+                            <h3>Backup Progress</h3>
+                            <div class="status" id="backup-status">Ready</div>
+                        </div>
+                        <pre class="output" id="backup-output">Click "Start Backup" to begin...</pre>
+                    </div>
+                </div>
+
+                <!-- Backups Tab -->
+                <div class="tab-content" id="backups-tab">
+                    <div class="tab-header">
+                        <h2>📁 Existing Backups</h2>
+                        <p class="tab-description">
+                            View and manage your existing game save backups
+                        </p>
+                    </div>
+
+                    <div class="controls">
+                        <button id="refresh-backups-btn" class="btn btn-secondary">
+                            <span class="emoji">🔄</span>
+                            Refresh
+                        </button>
+                    </div>
+
+                    <div class="backups-container" id="backups-container">
+                        <div class="loading">Loading backups...</div>
+                    </div>
+                </div>
+
+                <!-- Logs Tab -->
+                <div class="tab-content" id="logs-tab">
+                    <div class="tab-header">
+                        <h2>📄 Backup Logs</h2>
+                        <p class="tab-description">
+                            View detailed logs of backup operations
+                        </p>
+                    </div>
+
+                    <div class="controls">
+                        <button id="refresh-logs-btn" class="btn btn-secondary">
+                            <span class="emoji">🔄</span>
+                            Refresh
+                        </button>
+                    </div>
+
+                    <div class="logs-container" id="logs-container">
+                        <div class="loading">Loading logs...</div>
+                    </div>
+                </div>
+            </section>
+        </main>
+
+        <!-- Status Bar -->
+        <footer class="status-bar">
+            <div class="status-item">
+                <span class="emoji">⚡</span>
+                <span id="app-status">Ready</span>
+            </div>
+            <div class="status-item">
+                <span class="emoji">🕒</span>
+                <span id="last-update">Never</span>
+            </div>
+        </footer>
+    </div>
+
+    <script src="renderer.js"></script>
+</body>
+</html>
