@@ -11,15 +11,78 @@ A Python utility that automatically locates and backs up game save files from va
 - Handles multiple game titles and save formats
 - Non-destructive operations - never modifies original saves
 
+## Quick Start
+
+### 🚀 Easy GUI Launch (Windows)
+```batch
+# Double-click or run from command line:
+BackUp-Interface.bat
+```
+
+OR
+
+```powershell
+# Right-click and "Run with PowerShell":
+.\launch_gui.ps1
+```
+
+## Setup Instructions
+
+### First-Time Setup for GUI
+
+1. **Install Node.js** (if not already installed)
+   - Download from: https://nodejs.org/
+   - Version 16+ required
+
+2. **Install Python** (if not already installed)
+   - Download from: https://python.org/
+   - Version 3.x required
+
+3. **Clone this repository**
+   ```bash
+   git clone https://github.com/uhwar/ez-backup-reload
+   cd ez-backup-reload
+   ```
+
+4. **Install Electron dependencies**
+   ```bash
+   cd ui
+   npm install
+   ```
+
+5. **Launch the GUI**
+   ```bash
+   # Option 1: Use launcher scripts (Windows)
+   cd ..
+   BackUp-Interface.bat
+   
+   # Option 2: Direct launch
+   cd ui
+   npm start
+   ```
+
 ## Usage
 
 ### Electron GUI (Recommended)
-```bash
-# Navigate to UI directory and install dependencies (first time only)
-cd ui
-npm install
 
-# Launch the GUI application
+The GUI provides a modern interface with:
+- **Obsidian-inspired dark theme** with deep greys and purple accents
+- **Frameless window** with custom controls
+- **Four main tabs**: Scan, Backup, View Backups, View Logs
+- **Real-time progress** tracking and status updates
+- **Game filtering** capabilities
+- **Monochrome emoji** design with JetBrains Mono font
+
+**Launch Options:**
+```bash
+# Method 1: Batch script (easiest)
+BackUp-Interface.bat
+
+# Method 2: PowerShell script
+.\launch_gui.ps1
+
+# Method 3: Manual
+cd ui
 npm start
 ```
 
@@ -98,3 +161,21 @@ python -m pytest tests/
 # Run specific test
 python -m unittest tests.test_backup
 ```
+
+## Troubleshooting
+
+### GUI won't launch
+- **Node.js not found**: Install Node.js from https://nodejs.org/
+- **Python not found**: Install Python from https://python.org/
+- **Dependencies missing**: Run `npm install` in the `ui/` directory
+- **Permission errors**: Run PowerShell as Administrator
+
+### Common Issues
+- **"electron not found"**: Delete `ui/node_modules/` and run `npm install` again
+- **White screen**: Dependencies may be corrupted, try reinstalling with `npm install`
+- **Python script fails**: Ensure Python is in your PATH and accessible via `py` command
+
+### Getting Help
+- Check the [Issues](https://github.com/uhwar/ez-backup-reload/issues) page
+- Run with `--verbose` flag for detailed output
+- Check the `logs/` directory for backup operation details
